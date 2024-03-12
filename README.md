@@ -1,7 +1,7 @@
 # project8-PersonalWebsite
 
 
-- [Demo Project](https://project17-bag-shop.vercel.app/)
+- [Demo Project](https://katayoon-faraji-web.github.io/project8-PersonalWebsite/)
 
 - Developed by katayoon faraji
 
