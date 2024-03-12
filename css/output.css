@@ -3335,7 +3335,7 @@ video {
 @font-face {
   font-family: font1;
 
-  src: url("../src/font/font/NewTitle-Medium.ttf") format("opentype");
+  src: url("../font/font/NewTitle-Medium.ttf") format("opentype");
 }
 
 @keyframes NAME{
